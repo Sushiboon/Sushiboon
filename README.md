@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any technology 
 - 📫 How to reach me mehrwadesushma@gmail.com
 - 😄 Pronouns: ...Sushi
-- ⚡ Fun fact: ...I am still jobless
+- ⚡ Fun fact: ...I am still jobless😬
 
 <!---
 Sushiboon/Sushiboon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
