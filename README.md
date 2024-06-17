@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sushiboon
 - 👀 I’m interested in Electronics 
 - 🌱 I’m currently learning C programming 
-- 💞️ I’m looking to collaborate on any technology 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me mehrwadesushma@gmail.com
 - 😄 Pronouns: ...Sushi
-- ⚡ Fun fact: ...I am still jobless😬
+- ⚡ Fun fact: ...
 
 <!---
 Sushiboon/Sushiboon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
